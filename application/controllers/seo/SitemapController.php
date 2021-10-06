@@ -11,9 +11,9 @@ class SitemapController extends CI_Controller {
     public function sitemap(){
 		$PTR_API['sitemapList'] = [
 			'home',
-			'about',
-			'business',
-			'contact-us',
+			// 'about',
+			// 'business',
+			// 'contact-us',
 		];
         $this->load->view('seo/sitemap',$PTR_API);
 	}

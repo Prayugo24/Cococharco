@@ -463,7 +463,7 @@
                                   <div class="elementor-element elementor-element-323222a1 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="323222a1" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="375" height="375" src="https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika3.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika3.png 375w, https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika3-300x300.png 300w, https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika3-150x150.png 150w" sizes="(max-width: 375px) 100vw, 375px" />
+                                        <img width="375" height="375" src="<?php echo base_url().'/assets/template_2/images/arabika3.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/arabika3.png'; ?> 375w, <?php echo base_url().'/assets/template_2/images/arabika3-300x300.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/arabika3-150x150.png'; ?> 150w" sizes="(max-width: 375px) 100vw, 375px" />
                                       </div>
                                     </div>
                                   </div>
@@ -522,7 +522,7 @@
                                   <div class="elementor-element elementor-element-891d11e elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="891d11e" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="230" height="230" src="https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika.png 230w, https://theuniversalcoffee.com/wp-content/uploads/2020/11/arabika-150x150.png 150w" sizes="(max-width: 230px) 100vw, 230px" />
+                                        <img width="230" height="230" src="<?php echo base_url().'assets/template_2/images/arabika3.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'assets/template_2/images/arabika3.png'; ?> 230w, <?php echo base_url().'assets/template_2/images/arabika3-150x150.png'; ?> 150w" sizes="(max-width: 230px) 100vw, 230px" />
                                       </div>
                                     </div>
                                   </div>
@@ -541,7 +541,7 @@
                                   <div class="elementor-element elementor-element-4024360 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="4024360" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="317" height="317" src="https://theuniversalcoffee.com/wp-content/uploads/2020/11/luwak.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://theuniversalcoffee.com/wp-content/uploads/2020/11/luwak.png 317w, https://theuniversalcoffee.com/wp-content/uploads/2020/11/luwak-300x300.png 300w, https://theuniversalcoffee.com/wp-content/uploads/2020/11/luwak-150x150.png 150w" sizes="(max-width: 317px) 100vw, 317px" />
+                                        <img width="317" height="317" src="<?php echo base_url().'/assets/template_2/images/luwak.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/luwak.png'; ?> 317w, <?php echo base_url().'/assets/template_2/images/luwak-300x300.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/luwak-150x150.png'; ?> 150w" sizes="(max-width: 317px) 100vw, 317px" />
                                       </div>
                                     </div>
                                   </div>
@@ -592,7 +592,7 @@
                                   <div class="elementor-element elementor-element-9259f3f elementor-widget elementor-widget-image" data-id="9259f3f" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img src="https://theuniversalcoffee.com/wp-content/uploads/elementor/thumbs/rsz_rebekah-howell-ildkh4xl5ju-unsplash-oxvqcjbaa4sdpr2mdg9i7gjnge4i3czqso0dzo5s8o.jpg" title="rsz_rebekah-howell-ildkh4xl5ju-unsplash" alt="rsz_rebekah-howell-ildkh4xl5ju-unsplash" />
+                                        <img src="<?php echo base_url().'/assets/template_2/images/rsz_rebekah.jpg'; ?>" title="rsz_rebekah-howell-ildkh4xl5ju-unsplash" alt="rsz_rebekah-howell-ildkh4xl5ju-unsplash" />
                                       </div>
                                     </div>
                                   </div>
@@ -605,7 +605,7 @@
                                   <div class="elementor-element elementor-element-65ef68a elementor-widget elementor-widget-image" data-id="65ef68a" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img src="https://theuniversalcoffee.com/wp-content/uploads/elementor/thumbs/elias-sorey-D29l4vh2FZA-unsplash-scaled-oxvn56kbk2vkwimpyl7r7kh702ovgl1m9pt7r773ug.jpg" title="elias-sorey-D29l4vh2FZA-unsplash" alt="elias-sorey-D29l4vh2FZA-unsplash" />
+                                        <img src="<?php echo base_url().'/assets/template_2/images/elias-sorey.jpg'; ?>" title="elias-sorey-D29l4vh2FZA-unsplash" alt="elias-sorey-D29l4vh2FZA-unsplash" />
                                       </div>
                                     </div>
                                   </div>
@@ -618,7 +618,7 @@
                                   <div class="elementor-element elementor-element-03383ed elementor-widget elementor-widget-image" data-id="03383ed" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img src="https://theuniversalcoffee.com/wp-content/uploads/elementor/thumbs/rsz_nathan-dumlao-ixtmpv7ydam-unsplash-oxvqgz3ujyv4jgmigdc2zc80fw8wfwm42mwxkpkuuw.jpg" title="rsz_nathan-dumlao-ixtmpv7ydam-unsplash" alt="rsz_nathan-dumlao-ixtmpv7ydam-unsplash" />
+                                        <img src="<?php echo base_url().'/assets/template_2/images/rsz_nathan.jpg'; ?>" title="rsz_nathan-dumlao-ixtmpv7ydam-unsplash" alt="rsz_nathan-dumlao-ixtmpv7ydam-unsplash" />
                                       </div>
                                     </div>
                                   </div>
@@ -637,8 +637,8 @@
                                   <div class="elementor-element elementor-element-0ca3d27 elementor-widget elementor-widget-image" data-id="0ca3d27" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <a href="https://theuniversalcoffee.com">
-                                          <img width="300" height="114" src="https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-300x114.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-300x114.png 300w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-1024x389.png 1024w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-768x292.png 768w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-1536x583.png 1536w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-2048x778.png 2048w" sizes="(max-width: 300px) 100vw, 300px" />
+                                        <a href="<?php echo base_url();?>">
+                                          <img width="300" height="114" src="<?php echo base_url().'/assets/template_2/images/sinta-copy-300x114.png'; ?>" class="attachment-medium size-medium" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/sinta-copy-300x114.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/sinta-copy-1024x389.png'; ?> 1024w, <?php echo base_url().'/assets/template_2/images/sinta-copy-768x292.png'; ?> 768w, <?php echo base_url().'/assets/template_2/images/sinta-copy-1536x583.png'; ?> 1536w, <?php echo base_url().'/assets/template_2/images/sinta-copy-2048x778.png'; ?> 2048w" sizes="(max-width: 300px) 100vw, 300px" />
                                         </a>
                                       </div>
                                     </div>
@@ -668,7 +668,7 @@
                                           <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="far fa-heart"></i>
                                           </span>
-                                          <span class="elementor-icon-list-text">Universal Coffee Indonesia</span>
+                                          <span class="elementor-icon-list-text">Cococharco Manufactur Indonesia</span>
                                         </li>
                                         <li class="elementor-icon-list-item">
                                           <span class="elementor-icon-list-icon">
@@ -680,13 +680,13 @@
                                           <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="far fa-envelope"></i>
                                           </span>
-                                          <span class="elementor-icon-list-text">sinta@theuniversalcoffee.com</span>
+                                          <span class="elementor-icon-list-text">cococharco99@gmail.com</span>
                                         </li>
                                         <li class="elementor-icon-list-item">
                                           <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="far fa-envelope"></i>
                                           </span>
-                                          <span class="elementor-icon-list-text">ikhsan@theuniversalcoffee.com</span>
+                                          <span class="elementor-icon-list-text">cococharco99@gmail.com</span>
                                         </li>
                                         <li class="elementor-icon-list-item">
                                           <span class="elementor-icon-list-icon">
@@ -747,7 +747,7 @@
                                   <div class="elementor-element elementor-element-6e49785 elementor-widget elementor-widget-text-editor" data-id="6e49785" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>Copyright Universal Coffee Indonesia © 2020. All Rights Reserved.</p>
+                                        <p>Copyright Cococharco Manufacture Indonesia © 2020. All Rights Reserved.</p>
                                       </div>
                                     </div>
                                   </div>

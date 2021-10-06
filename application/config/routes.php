@@ -54,9 +54,9 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['home'] = 'HomeController';
-$route['about'] = 'AboutController';
-$route['business'] = 'BusinessController';
-$route['portofolio'] = 'PortofolioController';
-$route['contact-us'] = 'ContactUsController';
+// $route['about'] = 'AboutController';
+// $route['business'] = 'BusinessController';
+// $route['portofolio'] = 'PortofolioController';
+// $route['contact-us'] = 'ContactUsController';
 
 $route['sitemap\.xml'] = "seo/SitemapController/sitemap";
