@@ -10,15 +10,15 @@
     </script>
     <script src=<?php echo base_url()."assets/template_2/js/style.js" ?> id='astra-theme-js-js'></script>
     <script src=<?php echo base_url()."assets/template_2/js/wp-embed.min.js" ?> id='wp-embed-js'></script>
-    <!-- <script src=<?php echo base_url()."assets/template_2/js/jquery.js" ?>  id='jquery-core-js'></script> -->
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src=<?php echo base_url()."assets/template_2/js/jquery.smartmenus.min.js" ?> id='smartmenus-js'></script>
     <script src=<?php echo base_url()."assets/template_2/js/imagesloaded.min.js" ?> id='imagesloaded-js'></script>
     <script src=<?php echo base_url()."assets/template_2/js/frontend-modules.min.js" ?> id='elementor-frontend-modules-js'></script>
-    <!-- <script src=<?php echo base_url()."assets/template_2/js/jquery.sticky.min.js" ?> id='elementor-sticky-js'></script> -->
+    
     <script id="elementor-pro-frontend-js-before">
   var ElementorProFrontendConfig = {
-    "ajaxurl": "https:\/\/theuniversalcoffee.com\/wp-admin\/admin-ajax.php",
+    
     "nonce": "d96ca5010c",
     "i18n": {
       "toc_no_headings_found": "No headings were found on this page."
@@ -150,9 +150,7 @@
         "legacyMode": {
           "elementWrappers": true
         },
-        "urls": {
-          "assets": "https:\/\/theuniversalcoffee.com\/wp-content\/plugins\/elementor\/assets\/"
-        },
+        
         "settings": {
           "page": [],
           "editorPreferences": []
@@ -174,7 +172,8 @@
         }
       };
     </script>
-    <script src='https://theuniversalcoffee.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.13' id='elementor-frontend-js'></script>
+    
+		<script src='<?php echo base_url()."assets/template_2/js/frontends.min.js" ?>' id='elementor-frontend-js'></script>
     <script type="text/javascript">
       /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function() {
         var t, e = location.hash.substring(1);
@@ -195,11 +194,11 @@
 							if (scrollPos <= 100) {
 								$('.header-menu').attr('style', 'background-color: transparent !important');
 								$('.header-menu a').attr('style', 'color: #eee !important');
-							}else if (scrollPos >= 100 && scrollPos <= 500) {
+							}else if (scrollPos >= 100 && scrollPos <= 470) {
                 console.log('Hello say');  
 								$('.header-menu').attr('style', 'background-color: #1610107a !important');
 								$('.header-menu a').attr('style', 'color: white !important');
-              } else if (scrollPos >= 470 && scrollPos <= 1000) {
+              } else if (scrollPos >= 470) {
 								$('.header-menu').attr('style', 'background-color: black !important');
 								$('.header-menu a').attr('style', 'color: #eee !important');
               }

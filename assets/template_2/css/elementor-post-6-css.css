@@ -36,10 +36,10 @@
 }
 
 .elementor-6 .elementor-element.elementor-element-784ad6fc .elementor-image img {
-	width: 63%;
-	max-width: 49%;
-	height: 85px;
-	object-fit: contain;
+	/* width: 63%; */
+	max-width: 23%;
+    height: 85px;
+    object-fit: cover;
 }
 
 .elementor-bc-flex-widget .elementor-6 .elementor-element.elementor-element-baf89b2.elementor-column .elementor-column-wrap {
@@ -798,7 +798,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-eee25fd {
 .elementor-6 .elementor-element.elementor-element-3857ed70:not(.elementor-motion-effects-element-type-background),
 .elementor-6 .elementor-element.elementor-element-3857ed70>.elementor-motion-effects-container>.elementor-motion-effects-layer {
 	background-color: rgba(35, 21, 21, 0);
-	background-image: url("../images/Footer-BG.png");
+	background-image: url("../images/Footer-BG.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1032,7 +1032,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-50221e8 {
 .elementor-6 .elementor-element.elementor-element-561f738:not(.elementor-motion-effects-element-type-background),
 .elementor-6 .elementor-element.elementor-element-561f738>.elementor-motion-effects-container>.elementor-motion-effects-layer {
 	background-color: rgba(35, 21, 21, 0);
-	background-image: url("../images/Footer-BG.png");
+	background-image: url("../images/Footer-BG.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1113,7 +1113,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-50221e8 {
 }
 
 .elementor-6 .elementor-element.elementor-element-25346a0>.elementor-element-populated {
-	padding: 20px 0px 0px 0px;
+	padding: 20px 0px 0px 23px;
 }
 
 .elementor-6 .elementor-element.elementor-element-f75fa3f .elementor-heading-title {
@@ -1175,7 +1175,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-c8b30e3 .elemen
 }
 
 .elementor-6 .elementor-element.elementor-element-2ae1842>.elementor-element-populated {
-	padding: 20px 0px 0px 0px;
+	padding: 20px 0px 0px 13px;
 }
 
 .elementor-6 .elementor-element.elementor-element-c6161c4 .elementor-heading-title {
@@ -1285,7 +1285,7 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-8a76b6c .elemen
 
 @media(max-width:767px) {
 	.elementor-6 .elementor-element.elementor-element-239ad2d5 {
-		width: 70%;
+		width: 24%;
 	}
 	.elementor-6 .elementor-element.elementor-element-784ad6fc {
 		text-align: right;

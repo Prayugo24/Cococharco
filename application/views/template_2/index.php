@@ -61,6 +61,7 @@
               </div>
             </div>
           </section>
+
           <section class="elementor-section elementor-top-section elementor-element elementor-element-7deb351c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7deb351c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-background-overlay"></div>
             <div class="elementor-container elementor-column-gap-default">
@@ -145,7 +146,7 @@
                                   <div class="elementor-element elementor-element-a1aaf34 elementor-widget elementor-widget-text-editor" data-id="a1aaf34" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>Cococharco is one of the leading producer of coconut product in Indonesia. We have been established for over 10 years in green coconuts. We are producing arabica, robusta, loewak, and specialty coffee from Indonesia origin.</p>
+                                        <p>Cococharco is one of the leading producer of coconut product in Indonesia. We are producing cocofiber, coconut peat, Coconut Briquette Charcoal, and other coconut product derivatives from Indonesia origin.</p>
                                       </div>
                                     </div>
                                   </div>
@@ -204,6 +205,7 @@
               </div>
             </div>
           </section>
+
           <section class="elementor-section elementor-top-section elementor-element elementor-element-12969ff2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="12969ff2" data-element_type="section" id="business" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-background-overlay"></div>
             <div class="elementor-container elementor-column-gap-default">
@@ -325,6 +327,7 @@
               </div>
             </div>
           </section>
+
           <section class="elementor-section elementor-top-section elementor-element elementor-element-63e92671 elementor-section-boxed elementor-section-height-default elementor-section-height-default" 
 						data-id="63e92671" data-element_type="section" 
 							data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:31,&quot;url&quot;:&quot;<?php echo base_url().'assets/template_2/images/backgrouund_kelapa.png' ?>}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
@@ -344,7 +347,7 @@
                                   <div class="swiper-slide-inner">
                                     <div class="swiper-slide-contents">
                                       <div class="elementor-slide-heading">PRODUCTION CAPACITY</div>
-                                      <div class="elementor-slide-description">We developing a network with farmers throughout the coffee plantations that we manage. And we ensure readiness in our processing plants, to be able to produce the best products with international quality.</div>
+                                      <div class="elementor-slide-description">We developing a network with farmers throughout the coconut plantations that we manage. And we ensure readiness in our processing plants, to be able to produce the best products with international quality.</div>
                                     </div>
                                   </div>
                                 </div>
@@ -353,7 +356,7 @@
                                   <div class="swiper-slide-inner">
                                     <div class="swiper-slide-contents">
                                       <div class="elementor-slide-heading">10.000</div>
-                                      <div class="elementor-slide-description">GREEN COFFEE BEAN PRODUCTION</div>
+                                      <div class="elementor-slide-description">COCONUT PRODUCTION</div>
                                       <div class="elementor-button elementor-slide-button elementor-size-sm">TON/MONTH</div>
                                     </div>
                                   </div>
@@ -376,7 +379,7 @@
                         <div class="elementor-widget-container">
                           <div class="elementor-social-icons-wrapper elementor-grid">
                             <div class="elementor-grid-item">
-                              <a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-repeater-item-e6f566b" href="https://wa.link/iveocp" target="_blank">
+                              <a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-repeater-item-e6f566b" href="http://shorturl.at/agpvN" target="_blank">
                                 <span class="elementor-screen-only">Whatsapp</span>
                                 <i class="fab fa-whatsapp"></i>
                               </a>
@@ -411,22 +414,22 @@
                             <div class="elementor-main-swiper swiper-container">
                               <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/20-unsplash-scaled.jpg"; ?>')"></div>
+                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/briket_2.jpg"; ?>')"></div>
                                 </div>
                                 <div class="swiper-slide">
-                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/21-unsplash-scaled.jpg"; ?>')"></div>
+                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/6-unsplash-scaled.jpg"; ?>')"></div>
                                 </div>
                                 <div class="swiper-slide">
-                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/22-unsplash.jpg"; ?>')"></div>
+                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/product_briket.jpeg"; ?>')"></div>
                                 </div>
                                 <div class="swiper-slide">
-                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/23-unsplash-scaled.jpg"; ?>')"></div>
+                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/copra_1.jpg"; ?>')"></div>
                                 </div>
                                 <div class="swiper-slide">
-                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/24-unsplash-scaled.jpg"; ?>')"></div>
+                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/cocopeat_1.jpg"; ?>')"></div>
                                 </div>
                                 <div class="swiper-slide">
-                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/25-unsplash-scaled.jpg"; ?>')"></div>
+                                  <div class="elementor-carousel-image" style="background-image: url('<?php echo base_url()."assets/template_2/images/cocofiber_1.jpg"; ?>')"></div>
                                 </div>
                               </div>
                               <div class="swiper-pagination"></div>
@@ -448,6 +451,7 @@
               </div>
             </div>
           </section>
+
           <section class="elementor-section elementor-top-section elementor-element elementor-element-3857ed70 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3857ed70" data-element_type="section" id="product" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-container elementor-column-gap-default">
               <div class="elementor-row">
@@ -463,7 +467,7 @@
                                   <div class="elementor-element elementor-element-323222a1 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="323222a1" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="375" height="375" src="<?php echo base_url().'/assets/template_2/images/arabika3.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/arabika3.png'; ?> 375w, <?php echo base_url().'/assets/template_2/images/arabika3-300x300.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/arabika3-150x150.png'; ?> 150w" sizes="(max-width: 375px) 100vw, 375px" />
+                                        <img width="375" height="375" src="<?php echo base_url().'/assets/template_2/images/briket_product.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/briket_product.png'; ?> 375w, <?php echo base_url().'/assets/template_2/images/briket_product.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/briket_product.png'; ?> 150w" sizes="(max-width: 375px) 100vw, 375px" />
                                       </div>
                                     </div>
                                   </div>
@@ -476,14 +480,14 @@
                                   <div class="elementor-element elementor-element-e1432ba elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="e1432ba" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>ARABICA COFFEE</p>
+                                        <p>Coconut Briquette Charcoal</p>
                                       </div>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-a4e9ce2 elementor-widget elementor-widget-text-editor" data-id="a4e9ce2" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>Arabica coffee grows in areas at an altitude of 700-1700 m above sea level with temperatures of 16-20°C. In Indonesia we can find most of the Arabica coffee plantations in the mountainous regions of Toraja, North Sumatra, Aceh and in several areas on the island of Java. Finally, it is packed in jute bags and transported to a processing facility.</p>
+                                        <p style="padding-top: 21%;">Coconut Charcoal Briquette is a compact block charcoal which made from coconut shell charcoal. Our charcoal briquette is made of granular coconut shell charcoal that is crushed charcoal and moulded using a natural binder. As fuel, it is hotter and last longer than ordinary charcoal. It is suitable for household use both indoor and outdoor. Also, it can be used in food industries, for barbecue, stove fuel, metallurgy, etc.</p>
                                       </div>
                                     </div>
                                   </div>
@@ -502,14 +506,14 @@
                                   <div class="elementor-element elementor-element-e834699 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="e834699" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>ROBUSTA COFFEE</p>
+                                        <p>Copra</p>
                                       </div>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-06c00c8 elementor-widget elementor-widget-text-editor" data-id="06c00c8" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>Robusta coffee grows properly at an altitude of 400-700 m above sea level with temperature 21-24°C. Robusta coffee produces greater yields than arabica types, and incorporates greater caffeine, that is 2.7% as compared to arabica which incorporates handiest 1.5%. We additionally make sure stable packaging of the robusta coffee.</p>
+                                        <p>Copra is the dried flesh of coconuts. Every adult coconut tree bears 50-75 nuts that can be harvested, split with machetes and left to dry in the sun. The copra is then scraped out of the husk and gets to dry further on racks. Finally, it is packed in jute bags and transported to a processing facility..</p>
                                       </div>
                                     </div>
                                   </div>
@@ -522,7 +526,7 @@
                                   <div class="elementor-element elementor-element-891d11e elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="891d11e" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="230" height="230" src="<?php echo base_url().'assets/template_2/images/arabika3.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'assets/template_2/images/arabika3.png'; ?> 230w, <?php echo base_url().'assets/template_2/images/arabika3-150x150.png'; ?> 150w" sizes="(max-width: 230px) 100vw, 230px" />
+                                        <img width="230" height="230" src="<?php echo base_url().'assets/template_2/images/copra_product.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'assets/template_2/images/copra_product.png'; ?> 230w, <?php echo base_url().'assets/template_2/images/copra_product.png'; ?> 150w" sizes="(max-width: 230px) 100vw, 230px" />
                                       </div>
                                     </div>
                                   </div>
@@ -541,7 +545,7 @@
                                   <div class="elementor-element elementor-element-4024360 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="4024360" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="317" height="317" src="<?php echo base_url().'/assets/template_2/images/luwak.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/luwak.png'; ?> 317w, <?php echo base_url().'/assets/template_2/images/luwak-300x300.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/luwak-150x150.png'; ?> 150w" sizes="(max-width: 317px) 100vw, 317px" />
+                                        <img width="317" height="317" src="<?php echo base_url().'/assets/template_2/images/cocopeat_product.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/cocopeat_product.png'; ?> 317w, <?php echo base_url().'/assets/template_2/images/cocopeat_product.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/cocopeat_product.png'; ?> 150w" sizes="(max-width: 317px) 100vw, 317px" />
                                       </div>
                                     </div>
                                   </div>
@@ -554,14 +558,93 @@
                                   <div class="elementor-element elementor-element-50221e8 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="50221e8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>LOEWAK COFFEE</p>
+                                        <p>Coconut Peat</p>
                                       </div>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-b17b88d elementor-widget elementor-widget-text-editor" data-id="b17b88d" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <p>Loewak coffee is coffee beans taken from the leftover civet or coconut civet droppings. The coffee beans withinside the civet droppings are then picked up, washed, roasted, pounded, then brewed with warm water, then civet coffee is created. The aroma and flavor of luwak coffee is certainly unique and best amongst coffee lovers and connoisseurs across the world.</p>
+                                        <p>Cocopeat  are considered an ideal growing medium. The cocopeat powder thus obtained is sieved, washed, dried and finally compressed into blocks. The blocks can be used for a wide range of planting requirements. Coir is known for its natural rooting hormones and anti-fungal properties. We also ensure secure packaging of the cocopeat.</p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+
+											<section class="elementor-section elementor-inner-section elementor-element elementor-element-4d3b530 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d3b530" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ab21322" data-id="ab21322" data-element_type="column">
+                              <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-e834699 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="e834699" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-text-editor elementor-clearfix">
+                                        <p>Coconut Fiber</p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="elementor-element elementor-element-06c00c8 elementor-widget elementor-widget-text-editor" data-id="06c00c8" data-element_type="widget" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-text-editor elementor-clearfix">
+                                        <p>Coconut fiber, is a natural fiber extracted from the husk of coconut and used in products such as floor mats, doormats, brushes and mattresses. Coir is the fibrous material found between the hard, internal shell and the outer coat of a coconut. Other uses of brown coir (made from ripe coconut) are in upholstery padding, sacking and horticulture. White coir, harvested from unripe coconuts, is used for making finer brushes, string, rope and fishing net.</p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-351d5f8" data-id="351d5f8" data-element_type="column">
+                              <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-891d11e elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="891d11e" data-element_type="widget" data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img width="230" height="230" src="<?php echo base_url().'assets/template_2/images/cocofiber_product.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'assets/template_2/images/cocofiber_product.png'; ?> 230w, <?php echo base_url().'assets/template_2/images/cocofiber_product.png'; ?> 150w" sizes="(max-width: 230px) 100vw, 230px" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                      <section class="elementor-section elementor-inner-section elementor-element elementor-element-9a1dc38 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a1dc38" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f3b34c2" data-id="f3b34c2" data-element_type="column">
+                              <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-4024360 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="4024360" data-element_type="widget" data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-image">
+                                        <img width="317" height="317" src="<?php echo base_url().'/assets/template_2/images/vco_product.png'; ?>" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/vco_product.png'; ?> 317w, <?php echo base_url().'/assets/template_2/images/vco_product.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/vco_product.png'; ?> 150w" sizes="(max-width: 317px) 100vw, 317px" />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8adf017" data-id="8adf017" data-element_type="column">
+                              <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-50221e8 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="50221e8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-text-editor elementor-clearfix">
+                                        <p>Virgin Coconut Oil</p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="elementor-element elementor-element-b17b88d elementor-widget elementor-widget-text-editor" data-id="b17b88d" data-element_type="widget" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-text-editor elementor-clearfix">
+                                        <p>Virgin coconut oil is the oil extracted from coconuts without the application of heat. It is rapidly gaining popularity throughout the world in comparison to ordinary coconut oil and for a good reason. There is, in fact, a substance called virgin coconut oil and it differs from regular coconut oil in significant ways. These differences mainly lie with the source (more specifically, the physical form of the source), the method of extraction, and its subsequent benefits.</p>
                                       </div>
                                     </div>
                                   </div>
@@ -577,13 +660,16 @@
               </div>
             </div>
           </section>
+
+
           <section class="elementor-section elementor-top-section elementor-element elementor-element-561f738 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="561f738" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-container elementor-column-gap-default">
               <div class="elementor-row">
                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38786e1" data-id="38786e1" data-element_type="column">
                   <div class="elementor-column-wrap elementor-element-populated">
                     <div class="elementor-widget-wrap">
-                      <section class="elementor-section elementor-inner-section elementor-element elementor-element-1512d4f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1512d4f" data-element_type="section">
+
+                      <!-- <section class="elementor-section elementor-inner-section elementor-element elementor-element-1512d4f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1512d4f" data-element_type="section">
                         <div class="elementor-container elementor-column-gap-default">
                           <div class="elementor-row">
                             <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7a23a8a" data-id="7a23a8a" data-element_type="column">
@@ -627,7 +713,8 @@
                             </div>
                           </div>
                         </div>
-                      </section>
+                      </section> -->
+
                       <section class="elementor-section elementor-inner-section elementor-element elementor-element-95d6553 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="95d6553" data-element_type="section" id="contact">
                         <div class="elementor-container elementor-column-gap-default">
                           <div class="elementor-row">
@@ -638,7 +725,7 @@
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
                                         <a href="<?php echo base_url();?>">
-                                          <img width="300" height="114" src="<?php echo base_url().'/assets/template_2/images/sinta-copy-300x114.png'; ?>" class="attachment-medium size-medium" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/sinta-copy-300x114.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/sinta-copy-1024x389.png'; ?> 1024w, <?php echo base_url().'/assets/template_2/images/sinta-copy-768x292.png'; ?> 768w, <?php echo base_url().'/assets/template_2/images/sinta-copy-1536x583.png'; ?> 1536w, <?php echo base_url().'/assets/template_2/images/sinta-copy-2048x778.png'; ?> 2048w" sizes="(max-width: 300px) 100vw, 300px" />
+                                          <img width="300" height="114" src="<?php echo base_url().'/assets/template_2/images/logo_3.png'; ?>" class="attachment-medium size-medium" alt="" loading="lazy" srcset="<?php echo base_url().'/assets/template_2/images/logo_3.png'; ?> 300w, <?php echo base_url().'/assets/template_2/images/logo_3.png'; ?> 1024w, <?php echo base_url().'/assets/template_2/images/logo_3.png'; ?> 768w, <?php echo base_url().'/assets/template_2/images/logo_3.png'; ?> 1536w, <?php echo base_url().'/assets/template_2/images/logo_3.png'; ?> 2048w" sizes="(max-width: 300px) 100vw, 300px" />
                                         </a>
                                       </div>
                                     </div>
@@ -674,14 +761,9 @@
                                           <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-phone-alt"></i>
                                           </span>
-                                          <span class="elementor-icon-list-text">+62 83114708232</span>
+                                          <span class="elementor-icon-list-text">+6289516142887</span>
                                         </li>
-                                        <li class="elementor-icon-list-item">
-                                          <span class="elementor-icon-list-icon">
-                                            <i aria-hidden="true" class="far fa-envelope"></i>
-                                          </span>
-                                          <span class="elementor-icon-list-text">cococharco99@gmail.com</span>
-                                        </li>
+                                        
                                         <li class="elementor-icon-list-item">
                                           <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="far fa-envelope"></i>
@@ -692,7 +774,7 @@
                                           <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-map-marker-alt"></i>
                                           </span>
-                                          <span class="elementor-icon-list-text">AKR Tower Jalan Panjang No. 5, Jakarta, Indonesia</span>
+                                          <span class="elementor-icon-list-text">Sareyan, Wonokromo,Kec.Pleret, Bantul Daerah Istimewa Yogyakarta 55791</span>
                                         </li>
                                       </ul>
                                     </div>
@@ -768,6 +850,7 @@
               </div>
             </div>
           </section>
+					
         </div>
       </div>
     </div>

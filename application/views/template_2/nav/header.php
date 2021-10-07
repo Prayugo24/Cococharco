@@ -97,7 +97,7 @@
                         <div class="elementor-widget-container">
                           <div class="elementor-image">
                             <a href=<?php echo base_url(); ?>>
-                              <img width="2048" height="778" src="https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-2048x778.png" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" srcset="https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-2048x778.png 2048w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-300x114.png 300w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-1024x389.png 1024w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-768x292.png 768w, https://theuniversalcoffee.com/wp-content/uploads/2020/10/sinta-copy-1536x583.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+                              <img width="2048" height="778" src="<?php echo base_url().'assets/template_2/images/logo_2.png'; ?>" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" srcset="<?php echo base_url().'assets/template_2/images/logo_2.png'; ?> 2048w, <?php echo base_url().'assets/template_2/images/logo_2.png'; ?>g 300w, <?php echo base_url().'assets/template_2/images/logo_2.png'; ?> 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
                             </a>
                           </div>
                         </div>
